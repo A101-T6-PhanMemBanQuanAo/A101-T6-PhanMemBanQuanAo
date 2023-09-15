@@ -3,7 +3,6 @@ Thành Viên Nhóm
 1. Nguyễn Đình Huy (Nhóm Trưởng)  MSSV:2001207142 
 2. Nguyễn Thành Phát MSSV: 2001207178
 3. Huỳnh Hữu Đức MSSV:2001207422
-
 Chức Năng Đề Tài 
    App:
        +Quản lý bán quần áo 
